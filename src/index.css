@@ -12,42 +12,6 @@ code {
     monospace;
 }
 
-
-.main{
-  width : 800px;
-  margin : 0 auto;
+*{
+  box-sizing: border-box;
 }
-
-.searchInput{
-  width : 100%;
-  height: 50px;
-  background-color: black;;
-}
-
-.searchInput img{
-  margin-left: 10px;
-  height: 40px;
-  vertical-align: middle;
- 
-}
-
-.searchInput span{
-  font-size: 25px;
-  font-weight: bold;
-  color : white;
-  margin-right: 30px;
-  width: 30%;
-  margin-top: 30px;
-  padding-top: 20;
-}
-
-.searchInput input{
-  width:65%;
-  height: 30px;
-}
-
-.searchInput button{
-  width:5%;
-  height: 35px;
-}
-
